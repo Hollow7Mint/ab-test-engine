@@ -80,4 +80,4 @@ class AbModels:
             _, count = self._repo.query({"status": status}, limit=0)
             result[status] = count
         return result
-# Last sync: 2026-06-12 13:26:12 UTC
+# Last sync: 2026-06-12 14:30:42 UTC
